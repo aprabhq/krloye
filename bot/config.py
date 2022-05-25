@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1670462031:AAHFGR9Ws6-C1IWYZ12vp5eKjVZRzqjePKk"
+    APP_ID = "1554515"
+    API_HASH = "7c828ec34a6eb0bb4ac27ae77d0d7365"
+    DATABASE_URL = "postgresql://postgres:SQD7FLSqzn0RvFCVO1YJ@containers-us-west-63.railway.app:7160/railway"
+    SUDO_USERS = "608516957" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "t.me/fedelali"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "1038980953153-kmelb9p5fn04u5sqb8eo9220oogc52vb.apps.googleusercontent.com"#vrundasangeet
+    G_DRIVE_CLIENT_SECRET = "_7JUFS3f7a5-hplq7SXQD9BR"
 
 
 class BotCommands:
